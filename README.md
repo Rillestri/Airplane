@@ -34,3 +34,6 @@ if(istaken_FC[i] != 0)
   
 //Method to check seats after user has selected seats and confirmed
 -Some sort of enhanced for loop
+
+
+I have not worked with much arrays but I hope what I had some what makes sense. I still need to come up with a for loop go through and check all available seatings and what is not available. Any help would be appreciated!
