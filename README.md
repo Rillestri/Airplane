@@ -19,6 +19,7 @@ for(i to n) //Assuming arrays start at index 0
   isTaken_EC[i] = false
   end
   
+
 lblSeat(number)clicked (event)
 int i = (seat number - 1)
 if(istaken_FC[i] != 0)
